@@ -7281,7 +7281,8 @@ h3 {
   .masthead .masthead-subheading {
     font-size: 1.25rem; }
   .masthead .masthead-avatar {
-    width: 15rem; }
+    width: 15rem;
+	border-radius: 50%; }
 
 @media (min-width: 992px) {
   .masthead {
